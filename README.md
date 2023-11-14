@@ -1,16 +1,21 @@
 <h1 align="center">Hi, I'm Olgierd :wave:</h1>
 
-<h2>About me</h2>
+## About me
 
 Since my first automation project, I have been passionate about creating *things that do things*. 
 
 Besides that, I'm developing my skills to become a full-stack developer.
 
-<h2>A short story about my programming journey</h2>
+## A short story about my programming journey
 
 My **programming adventure** began when I realized that asking friends to register from a reflink just to get some premium points was pretty pathetic. So I decided to create something that would do it "by itself".
 
 And that's how I discovered **Python** <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="16px"> and began to take my first steps in it.
+
+## Currently 
+ - :brain: Learning full stack development 
+ - 🫶 Looking to collaborate on js/ts/python project
+ - 🎓 Studying at the Polish-Japanese Academy of Information Technology in Warsaw
 
 ### Skills
 <p align="left">
