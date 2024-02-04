@@ -13,15 +13,16 @@ My **programming adventure** began when I realized that asking friends to regist
 And that's how I discovered **Python** <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="16px"> and began to take my first steps in it.
 
 ## Currently 
- - :brain: Learning full stack development 
- - 🫶 Looking to collaborate on js/ts/python project
- - 🎓 Studying at the Polish-Japanese Academy of Information Technology in Warsaw
+ - :brain: Learning go <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" width="22px">
+ - 🫶 Looking to collaborate on any project using go/js/python! 
+ - 🎓 Studying at the Polish-Japanese Academy of Information Technology in Warsaw 🇵🇱🇯🇵
 
 ### Skills
 <p align="left">
   <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg">
   <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
   <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg">
+  <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg">
   <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-plain-wordmark.svg">
   <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
   <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
